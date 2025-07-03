@@ -14,10 +14,12 @@ I have hands-on experience in every stage of the development process — from un
 ## 🛠️ Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Python  
-- **Frontend:** React.js  
+- **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js, Django  
-- **DevOps:** AWS Services, Docker, GitHub Actions, CI/CD  
-- **Others:** Kafka, Git, Testing (Jest & more)
+- **DevOps:** AWS Services, Docker, GitHub Actions, CI/CD
+- **Database** : MongoDB, PostgreSQL, DynamoDB, MySql
+- **eCommerce & CMSs:** Shopify, WordPress, Woocommerce, Contentful CMS, Sanity
+- **Others:** Kafka, Git, Testing (Jest & React Testing Library)
 
 ---
 
