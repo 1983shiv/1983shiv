@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I’m a **Senior Full Stack Developer** with strong skills in building fast, secure, and scalable websites that not only look great but also help businesses grow. I use modern tools and methods to make sure websites load quickly, run smoothly, and are well-optimized.
+I’m a **Full Stack Developer** with strong skills in building fast, secure, and scalable websites that not only look great but also help businesses grow. I use modern tools and methods to make sure websites load quickly, run smoothly, and are well-optimized.
 
 I have hands-on experience in every stage of the development process — from understanding project needs and writing clean code from scratch, to testing, reviewing code, and making sure everything works under pressure. I also write and run tests for both the frontend (using **Jest**) and backend, and I’m comfortable working on large, complex projects.
 
