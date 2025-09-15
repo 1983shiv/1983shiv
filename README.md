@@ -16,10 +16,10 @@ I have hands-on experience in every stage of the development process — from un
 - **Languages:** TypeScript, JavaScript, PHP, Python  
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js, Django, NestJs  
-- **DevOps:** AWS Services, Docker, GitHub Actions, CI/CD
+- **DevOps:** AWS Services, Docker, GitHub Actions, CI/CD, Kubernetes
 - **Database** : MongoDB, PostgreSQL, DynamoDB, MySql
-- **eCommerce & CMSs:** Shopify, WordPress, Woocommerce, Contentful CMS, Sanity
-- **Others:** Kafka, Git, Testing (Jest & React Testing Library)
+- **eCommerce & CMSs:** Shopify, WordPress, Woocommerce
+- **Others:** Kafka, Git, Testing (Jest & React Testing Library, Cypress, Playwright)
 
 ---
 
