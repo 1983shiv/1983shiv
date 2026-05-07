@@ -3,7 +3,7 @@
 <!-- Optionally, add a banner image here -->
 <!-- ![Profile Banner](https://user-images.githubusercontent.com/1983shiv/banner-placeholder.png) -->
 
-Full Stack Developer who builds fast, accessible, and production-ready products — from open-source libraries to SaaS platforms, serverless backends, and WordPress plugins.
+Full Stack Developer who builds fast, accessible, and production-ready products — from open-source libraries to SaaS platforms, real-time applications, serverless backends, and WordPress plugins.
 
 ---
 
