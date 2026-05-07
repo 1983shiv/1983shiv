@@ -39,10 +39,11 @@ Effects: AccordionSlider · ImageTrail · StickyStack · FlipCards · and more
 - **Languages:** TypeScript, JavaScript, PHP, Python  
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js, Django, NestJs
-- **Cloud:** AWS (Lambda · AppSync · DynamoDB · Cognito · SES · S3 · SQS, EventBridge, EC2, ECS, VPS, Route 53, Amplify, CDK) 
+- **Cloud:** AWS (Lambda · AppSync · APIGateway · DynamoDB · Cognito · SES · S3 · SQS · EventBridge · EC2 · ECS · Amplify · CDK) 
 - **Database** : MongoDB, PostgreSQL, DynamoDB, MySql
 - **eCommerce & CMSs:** Shopify, WordPress, Woocommerce
-- **Others:** Docker, GitHub Actions, CI/CD, Kubernetes, Kafka, Git, Testing (Jest & React Testing Library, Cypress, Playwright)
+- **Testing** : Jest & React Testing Library, E2E Testing with Cypress, Playwright
+- **Others:** Docker, GitHub Actions, CI/CD, Kubernetes, Kafka, Git,
 
 ---
 
