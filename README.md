@@ -1,13 +1,36 @@
-# 👋 Hi there, I'm Shiv Srivastava!
+# 👋 Hi, I'm Shiv Srivastava!
 
 <!-- Optionally, add a banner image here -->
 <!-- ![Profile Banner](https://user-images.githubusercontent.com/1983shiv/banner-placeholder.png) -->
 
-## 🚀 About Me
+Full Stack Developer who builds fast, accessible, and production-ready products — from open-source libraries to SaaS platforms, serverless backends, and WordPress plugins.
 
-I’m a **Full Stack Developer** with strong skills in building fast, secure, and scalable application/websites that not only look great but also help businesses grow. I use modern tools and methods to make sure websites load quickly, run smoothly, and are well-optimized.
+---
 
-I have hands-on experience in every stage of the development process — from understanding project needs and writing clean code from scratch, to testing, reviewing code, and making sure everything works under pressure. I also write and run tests for both the frontend (using **Jest**) and backend, and I’m comfortable working on large, complex projects.
+## What I'm Building
+
+🏢 **[AdvikLabs](https://adviklabs.com)** — A multi-tenant SaaS platform and product hub for a portfolio of WordPress plugins. Handles auth (OAuth, 2FA, RBAC), license management, Stripe billing, and admin ops.
+Built with Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS · AWS S3
+
+📦 **[react-cinematic-effects](https://www.npmjs.com/package/@adviklabs/react-cinematic-effects)** — Open-source React component library of cinematic UI effects.
+Zero runtime dependencies · SSR-safe · Accessible · Tree-shakeable · TypeScript
+Effects: AccordionSlider · ImageTrail · StickyStack · FlipCards · and more
+
+🔌 **WordPress Plugins** (via AdvikLabs):
+- **Advik Booking** — Multi-step booking system for service businesses. Stripe, Google Calendar, dynamic form logic.
+- **AI ReviewSense** — WooCommerce plugin with AI-powered review analysis, sentiment scoring, and auto-reply generation. Freemium model with license key validation.
+
+☁️ **Serverless Auction Platform (AWS)** — Architected, built, tested, and deployed a real-time auction platform using AWS Lambda, AppSync, DynamoDB, Cognito, SES, and CDK. Event-driven architecture with real-time data handling.
+
+---
+
+## What I Do Day-to-Day
+
+- Build full-stack web applications with Next.js, React, Node.js, Express, and NestJS
+- Convert Figma/Sketch designs into responsive, pixel-perfect UI
+- Set up CI/CD pipelines with GitHub Actions and AWS for automated testing and deployment
+- Write unit and end-to-end tests with Jest, React Testing Library, and Cypress
+- Collaborate through daily stand-ups, Slack, and ClickUp
 
 ---
 
@@ -15,11 +38,11 @@ I have hands-on experience in every stage of the development process — from un
 
 - **Languages:** TypeScript, JavaScript, PHP, Python  
 - **Frontend:** React.js, Next.js
-- **Backend:** Node.js, Express.js, Django, NestJs  
-- **DevOps:** AWS Services, Docker, GitHub Actions, CI/CD, Kubernetes
+- **Backend:** Node.js, Express.js, Django, NestJs
+- **Cloud:** AWS (Lambda · AppSync · DynamoDB · Cognito · SES · S3 · SQS, EventBridge, EC2, ECS, VPS, Route 53, Amplify, CDK) 
 - **Database** : MongoDB, PostgreSQL, DynamoDB, MySql
 - **eCommerce & CMSs:** Shopify, WordPress, Woocommerce
-- **Others:** Kafka, Git, Testing (Jest & React Testing Library, Cypress, Playwright)
+- **Others:** Docker, GitHub Actions, CI/CD, Kubernetes, Kafka, Git, Testing (Jest & React Testing Library, Cypress, Playwright)
 
 ---
 
@@ -36,14 +59,6 @@ I have hands-on experience in every stage of the development process — from un
 
 - [Pjango AWS User Auth](https://github.com/1983shiv/pjango-aws-user-auth/)  
   _User authentication system using Python Django and AWS services, focusing on secure and scalable integrations._
-
----
-
-## 🌱 What I’m working on
-
-- Building scalable web apps with modern architecture  
-- Optimizing performance & security  
-- Automating development workflows with CI/CD
 
 ---
 
