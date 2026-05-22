@@ -26,11 +26,14 @@ Effects: AccordionSlider · ImageTrail · StickyStack · FlipCards · and more
 
 ## What I Do Day-to-Day
 
-- Build full-stack web applications with Next.js, React, Node.js, Express, and NestJS
-- Convert Figma/Sketch designs into responsive, pixel-perfect UI
-- Set up CI/CD pipelines with GitHub Actions and AWS for automated testing and deployment
-- Write unit and end-to-end tests with Jest, React Testing Library, and Cypress
-- Collaborate through daily stand-ups, Slack, and ClickUp
+- Build scalable, high-performance web applications with clean architecture and responsive user experiences
+- Transform design concepts into polished, user-friendly interfaces optimized across devices
+- Set up automated development, testing, and deployment workflows for faster and reliable releases
+- Set up CI/CD pipelines using GitHub Actions and AWS for automated testing, staging, and deployment
+- Write maintainable unit, integration, and end-to-end test coverage to ensure long-term product stability
+- Collaborate closely with teams through agile workflows, daily stand-ups, and structured project management processes
+- Perform smoke, load, stress, and soak testing to validate application stability, scalability, memory efficiency, and reliable performance under real-world user traffic and high-concurrency conditions
+
 
 ---
 
