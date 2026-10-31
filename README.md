@@ -9,8 +9,16 @@ Full Stack Developer who builds fast, accessible, and production-ready products 
 
 ## What I'm Building
 
+🏢 **[Advikprep](https://advikprep.com)** 
+- A platform offering scenario-based exam practice for IT certifications for AWS Solutions Architect Associate and Azure and GCP is next to work on.
+- Owned the platform end to end: product design, pricing, payments (Stripe), and digital delivery.
+- Developed original exam-style questions with detailed explanations, using expert consultation and a manual review process for quality and accuracy.
+- Produced a product demo and learning content to help cloud and DevOps learners prepare with confidence.
+
+Built with Next.js · TanStack Query . TypeScript · MongoDB · NextAuth · Sentry . Tailwind CSS · AWS S3 . LLM . Gemini/OpenAI/Anthropic and OpenRouter-powered AI diagnostics
+
 🏢 **[AdvikLabs](https://adviklabs.com)** — A multi-tenant SaaS platform and product hub for a portfolio of WordPress plugins. Handles auth (OAuth, 2FA, RBAC), license management, Stripe billing, and admin ops.
-Built with Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS · AWS S3
+Built with Next.js · TanStack Query · TypeScript · MongoDB · NextAuth · Sentry . Tailwind CSS · AWS S3
 
 📦 **[react-cinematic-effects](https://www.npmjs.com/package/@adviklabs/react-cinematic-effects)** — Open-source React component library of cinematic UI effects.
 Zero runtime dependencies · SSR-safe · Accessible · Tree-shakeable · TypeScript
