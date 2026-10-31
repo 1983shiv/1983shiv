@@ -12,8 +12,8 @@ Full Stack Developer who builds fast, accessible, and production-ready products 
 🏢 **[Advikprep](https://advikprep.com)** 
 - A platform offering scenario-based exam practice for IT certifications for AWS Solutions Architect Associate and Azure and GCP is next to work on.
 - Owned the platform end to end: product design, pricing, payments (Stripe), and digital delivery.
-- Developed original exam-style questions with detailed explanations, using expert consultation and a manual review process for quality and accuracy.
-- Produced a product demo and learning content to help cloud and DevOps learners prepare with confidence.
+- Developed original exam-style questions with detailed explanations, using a manual review process for quality and accuracy.
+- Produced a product demo and learning content to help cloud certification learners to prepare with confidence.
 
 Built with Next.js · TanStack Query . TypeScript · MongoDB · NextAuth · Sentry . Tailwind CSS · AWS S3 . LLM . Gemini/OpenAI/Anthropic and OpenRouter-powered AI diagnostics
 
